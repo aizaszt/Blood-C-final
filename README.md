@@ -1,6 +1,9 @@
 #🩸 Blood C+
 Курсовой проект по ПМ / Бизнес-анализу
+
 Информационная веб-платформа для автоматизации взаимодействия между донорами крови и медицинскими центрами.
+
+
 #📄 Презентация проекта: 
 https://www.canva.com/design/DAG9vzAq9hI/Me9LEAdvCY1hjoesglizGg/edit?utm_content=DAG9vzAq9hI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
