@@ -30,4 +30,6 @@ https://www.canva.com/design/DAHAYHlam6c/ZvH2MZs-de9VBOilDMmIEQ/edit
 Повышение прозрачности процесса
 Централизованная база данных
 Снижение нагрузки на клиники
+
+
 <img width="504" height="791" alt="image" src="https://github.com/user-attachments/assets/994d0812-29e0-4121-a047-dc84bc0a09cc" />
